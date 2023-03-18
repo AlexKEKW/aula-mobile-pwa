@@ -1,9 +1,9 @@
 {
+  "name": "Alex'sCompany",
   "background_color": "#ffffff",
   "description": "Author: Alex;\n  Este site se trata apenas de um projeto de PWA da cadeira de Mobile para a disciplina de Análise e Desenvolvimento de Sistemas",
   "dir": "auto",
   "display": "standalone",
-  "name": "Alex's Company",
   "orientation": "any",
   "scope": "index.html",
   "short_name": "Alex'sMKTD",
@@ -42,7 +42,7 @@
       "sizes": "180x180"
     },
     {
-      "src": "assets/img/icon_196",
+      "src": "assets/img/maskable-icon",
       "type": "image/png",
       "sizes": "196x196",
       "purpose": "any maskable"
