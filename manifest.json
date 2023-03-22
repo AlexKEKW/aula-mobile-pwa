@@ -1,13 +1,13 @@
 {
-  "name": "Alex'sCompany",
+  "name": "Alex's Company",
   "background_color": "#ffffff",
   "description": "Author: Alex;\n  Este site se trata apenas de um projeto de PWA da cadeira de Mobile para a disciplina de Análise e Desenvolvimento de Sistemas",
   "dir": "auto",
   "display": "standalone",
   "orientation": "any",
   "scope": "index.html",
-  "short_name": "Alex'sMKTD",
-  "start_url": "index.html",
+  "short_name": "Alex PWA",
+  "start_url": "https://projeto-mobile-pwa.netlify.app/",
   "theme_color": "#ffffff",
   "categories": [
     "business",
